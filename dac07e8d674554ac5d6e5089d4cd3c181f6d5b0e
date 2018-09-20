@@ -1,0 +1,1 @@
+{"jobID":"1ec9721b-298b-c9d9-e96d-8f53bd84eecb","spec":{"type":"policy","cause":{"Message":"","User":"Rigved Patki \u003crigved.patki@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
